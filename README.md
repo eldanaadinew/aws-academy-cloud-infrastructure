@@ -49,3 +49,7 @@ Five guided AWS labs covering networking, compute, storage, databases, and scali
 ## Scope
 
 These were guided AWS Academy learning environments rather than a production deployment. This repository documents the completed work accurately without publishing account identifiers, credentials, lab answer keys, or unredacted console screenshots.
+
+## Resume project-management context (self-reported)
+
+Eldana describes tracking milestones and requirements across concurrent AWS Academy lab deadlines, documenting in Google Workspace, and communicating through Slack. The resume reports approximately 45 minutes per lab and an A on each of five or more builds. These timing and grade details are self-reported and not independently established by the repository. The five named guided labs below are the documented scope.
