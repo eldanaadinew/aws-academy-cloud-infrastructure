@@ -4,6 +4,13 @@ A documented set of guided AWS Academy labs covering core cloud infrastructure, 
 
 ## Project coordination and delivery
 
+**Implementation planning:** Completed five guided AWS Academy labs covering networking, compute, storage, databases, and scaling.
+
+**Testing and documentation:** Verified service behavior and connectivity and documented troubleshooting. These were guided learning environments, not production implementations.
+
+
+## Project coordination and delivery
+
 Five guided AWS labs covering networking, compute, storage, databases, and scaling. Demonstrates staged implementation, dependency awareness, testing, and documentation; not a production deployment.
 
 ## Completed labs
