@@ -7,6 +7,7 @@ A documented set of guided AWS Academy labs covering core cloud infrastructure, 
 The five guided AWS Academy labs were completed in approximately 45-minute lab windows. Requirements and milestones were tracked alongside other coursework deadlines, with documentation organized in Google Workspace and project communication through Slack.
 
 Each lab followed an implementation and validation process: configure the relevant AWS services, check expected connectivity or behavior, troubleshoot issues, and record results. These were guided educational environments rather than production deployments.
+
 ## Completed labs
 
 - Build Your VPC and Launch a Web Server
