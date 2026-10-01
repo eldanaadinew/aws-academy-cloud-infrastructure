@@ -2,16 +2,18 @@
 
 A documented set of guided AWS Academy labs covering core cloud infrastructure, storage, databases, scalability, and availability. The project focuses on understanding how AWS services work together and how to validate and troubleshoot each environment.
 
+## Project coordination and resume alignment
+
+I completed five AWS Academy guided implementations: VPC and web server, EC2, EBS, database server, and scaling/load balancing. Each lab had an approximately 45-minute completion window, and I earned an A on each. I tracked requirements and milestones alongside concurrent coursework deadlines, maintained documentation in Google Workspace, and communicated through Slack.
+
+The five lab titles and technical scope are documented below. The timing, grades, and coordination tools reflect my course experience and are not independently evidenced by the repository. These were guided AWS Academy labs, not production deployments.
+
 ## Project coordination and delivery
 
 **Implementation planning:** Completed five guided AWS Academy labs covering networking, compute, storage, databases, and scaling.
 
 **Testing and documentation:** Verified service behavior and connectivity and documented troubleshooting. These were guided learning environments, not production implementations.
 
-
-## Project coordination and delivery
-
-Five guided AWS labs covering networking, compute, storage, databases, and scaling. Demonstrates staged implementation, dependency awareness, testing, and documentation; not a production deployment.
 
 ## Completed labs
 
@@ -49,7 +51,3 @@ Five guided AWS labs covering networking, compute, storage, databases, and scali
 ## Scope
 
 These were guided AWS Academy learning environments rather than a production deployment. This repository documents the completed work accurately without publishing account identifiers, credentials, lab answer keys, or unredacted console screenshots.
-
-## Resume project-management context (self-reported)
-
-Eldana describes tracking milestones and requirements across concurrent AWS Academy lab deadlines, documenting in Google Workspace, and communicating through Slack. The resume reports approximately 45 minutes per lab and an A on each of five or more builds. These timing and grade details are self-reported and not independently established by the repository. The five named guided labs below are the documented scope.
