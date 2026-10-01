@@ -2,19 +2,11 @@
 
 A documented set of guided AWS Academy labs covering core cloud infrastructure, storage, databases, scalability, and availability. The project focuses on understanding how AWS services work together and how to validate and troubleshoot each environment.
 
-## Project coordination and resume alignment
+## Lab workflow and delivery
 
-I completed five AWS Academy guided implementations: VPC and web server, EC2, EBS, database server, and scaling/load balancing. Each lab had an approximately 45-minute completion window, and I earned an A on each. I tracked requirements and milestones alongside concurrent coursework deadlines, maintained documentation in Google Workspace, and communicated through Slack.
+The five guided AWS Academy labs were completed in approximately 45-minute lab windows. Requirements and milestones were tracked alongside other coursework deadlines, with documentation organized in Google Workspace and project communication through Slack.
 
-The five lab titles and technical scope are documented below. The timing, grades, and coordination tools reflect my course experience and are not independently evidenced by the repository. These were guided AWS Academy labs, not production deployments.
-
-## Project coordination and delivery
-
-**Implementation planning:** Completed five guided AWS Academy labs covering networking, compute, storage, databases, and scaling.
-
-**Testing and documentation:** Verified service behavior and connectivity and documented troubleshooting. These were guided learning environments, not production implementations.
-
-
+Each lab followed an implementation and validation process: configure the relevant AWS services, check expected connectivity or behavior, troubleshoot issues, and record results. These were guided educational environments rather than production deployments.
 ## Completed labs
 
 - Build Your VPC and Launch a Web Server
