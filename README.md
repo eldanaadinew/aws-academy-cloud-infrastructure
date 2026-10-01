@@ -2,6 +2,10 @@
 
 A documented set of guided AWS Academy labs covering core cloud infrastructure, storage, databases, scalability, and availability. The project focuses on understanding how AWS services work together and how to validate and troubleshoot each environment.
 
+## Project coordination and delivery
+
+Five guided AWS labs covering networking, compute, storage, databases, and scaling. Demonstrates staged implementation, dependency awareness, testing, and documentation; not a production deployment.
+
 ## Completed labs
 
 - Build Your VPC and Launch a Web Server
