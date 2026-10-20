@@ -1,12 +1,16 @@
-# AWS Academy Cloud Infrastructure Project
+# AWS Cloud Infrastructure Implementation and Validation
 
-A documented set of guided AWS Academy labs covering core cloud infrastructure, storage, databases, scalability, and availability. The project focuses on understanding how AWS services work together and how to validate and troubleshoot each environment.
+**Five guided AWS Academy labs | A grade on each**
 
-## Lab workflow and delivery
+I completed five guided AWS infrastructure labs covering networking, compute, storage, databases, and scaling. I organized requirements and checkpoints alongside other coursework, validated expected behavior, and documented troubleshooting and results.
 
-The five guided AWS Academy labs were completed in approximately 45-minute lab windows. Requirements and milestones were tracked alongside other coursework deadlines, with documentation organized in Google Workspace and project communication through Slack.
+**Outcome:** Completed all five guided labs with an A on each.
 
-Each lab followed an implementation and validation process: configure the relevant AWS services, check expected connectivity or behavior, troubleshoot issues, and record results. These were guided educational environments rather than production deployments.
+**My role:** Individual implementation, milestone organization, technical validation, and documentation. These were educational labs, not production deployments or team-managed projects.
+
+---
+
+## Technical Documentation
 
 ## Completed labs
 
