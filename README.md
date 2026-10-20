@@ -2,11 +2,11 @@
 
 **Five guided AWS Academy labs | A grade on each**
 
-I completed five guided AWS infrastructure labs covering networking, compute, storage, databases, and scaling. I organized requirements and checkpoints alongside other coursework, validated expected behavior, and documented troubleshooting and results.
+I completed five guided AWS infrastructure labs covering networking, compute, storage, databases, and scaling. I organized requirements and checkpoints alongside concurrent priorities, validated expected behavior, and documented troubleshooting and results.
 
 **Outcome:** Completed all five guided labs with an A on each.
 
-**My role:** Individual implementation, milestone organization, technical validation, and documentation. These were educational labs, not production deployments or team-managed projects.
+**My role:** Individual implementation, milestone organization, technical validation, and documentation. These guided labs focused on implementation, validation, and documentation.
 
 ---
 
